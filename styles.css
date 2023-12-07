@@ -2,6 +2,7 @@
 /* Your CSS Code here. */
 /* Apply these styles to the holder class */
 .holder {
+	justify-content: space-between;
     display: flex;
     flex-wrap: wrap; /* This allows items to wrap to the next row when there isn't enough space */
     gap: 10px; /* Adjust the gap according to your preference */
